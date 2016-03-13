@@ -10,6 +10,7 @@
 
 @interface ViewController () {
     NSString *array;
+    NSString *str;
 }
 
 @end
